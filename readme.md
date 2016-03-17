@@ -41,7 +41,7 @@ Description of the development environment, link to the vagrant box and any spec
 **Tracking ID**: `UA-123456789-1`  
 **Name**: `The Name`
 
-Any specifics about
+Any specifics about tracking
 
 ## Designs / PSDs
 `afp://link/to/PSDs/or/assets/on/server`
